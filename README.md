@@ -1,5 +1,5 @@
 # AR_Unity
-This is an augumenty reality application where you can place your plants live in your house.
+This is an augmented reality application where you can place your plants live in your house.
 You can drag, zoom in/out and move the 🪴 as you like 😄
 
 ---
